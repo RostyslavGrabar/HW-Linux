@@ -1,0 +1,13 @@
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sdb       263174212  1801360 247934696   1% /
+tmpfs            1597660        0   1597660   0% /mnt/wsl
+tools          157510652 73612660  83897992  47% /init
+none             1595260        0   1595260   0% /dev
+none             1597660        4   1597656   1% /run
+none             1597660        0   1597660   0% /run/lock
+none             1597660        0   1597660   0% /run/shm
+none             1597660        0   1597660   0% /run/user
+tmpfs            1597660        0   1597660   0% /sys/fs/cgroup
+C:\            157510652 73612660  83897992  47% /mnt/c
+D:\            771069948 46828588 724241360   7% /mnt/d
+E:\             26214396  2982720  23231676  12% /mnt/e

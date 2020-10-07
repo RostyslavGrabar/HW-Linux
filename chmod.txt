@@ -1,0 +1,6 @@
+total 8
+-rwxrwxrwx 1 rostik rostik    0 Oct  7  2020 chmod.txt
+-rwxrwxrwx 1 rostik rostik  740 Oct  7 13:05 df.txt
+-rwxrwxrwx 1 rostik rostik  740 Oct  7 13:09 dfCopy.txt
+-rwxrwxrwx 1 rostik rostik   19 Oct  7 13:07 du.txt
+drwxrwxrwx 1 rostik rostik 4096 Oct  7 13:02 npmTest
